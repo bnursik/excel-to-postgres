@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"exel-to-postgres/handlers"
+	"excel-to-postgres/handlers"
 
 	"github.com/joho/godotenv"
 )
